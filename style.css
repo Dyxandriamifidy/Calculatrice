@@ -95,22 +95,14 @@ blockquote {
   background: rgb(27, 158, 158);
 }
 
-#module,
+.numero-btn .operator,
 #clear,
-#delete,
-#division,
-#multiplication,
-#addition,
-#soustraction {
+#delete {
   background-color: rgb(4, 146, 146);
 }
-#module:hover,
+.operator:hover,
 #clear:hover,
-#delete:hover,
-#division:hover,
-#multiplication:hover,
-#addition:hover,
-#soustraction:hover {
+#delete:hover {
   background: rgb(29, 160, 160);
 }
 
